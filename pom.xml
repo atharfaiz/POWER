@@ -12,7 +12,7 @@
 	<artifactId>powerapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>POWER-APP</name>
+	<name>PowerApp</name>
 	<description>BASE POWER APP CONTAINER</description>
 	<modules>
 		<module>PowerServer</module>
