@@ -11,5 +11,6 @@ public class DashboardController {
 	public String getMessage() {
 		return "this is my dashboard";
 	}
+	
 
 }
